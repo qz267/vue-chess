@@ -41,6 +41,7 @@
       runServer()
     }
   } else {
+    console.log("Start running...");
     runServer()
   }
 })();
